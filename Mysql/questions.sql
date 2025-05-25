@@ -10,47 +10,47 @@
 
 
 
--- Show the lowest salary in each department.
+-- 4 Show the lowest salary in each department.
 
 
 
--- Display the department name with the total salary paid to its employees.
+-- 5 Display the department name with the total salary paid to its employees.
 
 
 
--- List each department and count of employees hired after '2020-01-01'.
+--  6 List each department and count of employees hired after '2020-01-01'.
 
 
 
--- Show department names and the number of employees whose salary is more than 60000.
+-- 7 Show department names and the number of employees whose salary is more than 60000.
 
 
 
--- Display departments where the average salary is greater than 60000.
+-- 8  Display departments where the average salary is greater than 60000.
 
 
 
--- Find the total number of departments that have more than 2 employees.
+--  9 Find the total number of departments that have more than 2 employees.
 
 
 
--- Show the name of each department along with the sum of salary for employees hired in 2021.
+--  10 Show the name of each department along with the sum of salary for employees hired in 2021.
 
 
 
--- List departments and the earliest hire date among their employees.
+-- 11   List departments and the earliest hire date among their employees.
 
 
 
--- For each department, display the latest hire date and total number of employees.
+-- 12 For each department, display the latest hire date and total number of employees.
 
 
 
--- Show departments having total salary greater than 150000.
+-- 13 Show departments having total salary greater than 150000.
 
 
 
--- Show department names and average salary of employees whose name starts with 'A' to 'M'.
+-- 14 Show department names and average salary of employees whose name starts with 'A' to 'M'.
 
 
 
